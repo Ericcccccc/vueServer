@@ -1,0 +1,2 @@
+*.js linguist-language=node
+*.css linguist-language=express
